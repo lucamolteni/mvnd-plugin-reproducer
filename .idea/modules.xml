@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bootstrap/bootstrap.iml" filepath="$PROJECT_DIR$/bootstrap/bootstrap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kie-dmn-validation/kie-dmn-validation.iml" filepath="$PROJECT_DIR$/kie-dmn-validation/kie-dmn-validation.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvn-bootstrap-plugin-reproducer.iml" filepath="$PROJECT_DIR$/mvn-bootstrap-plugin-reproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/startup/startup.iml" filepath="$PROJECT_DIR$/startup/startup.iml" />
     </modules>
   </component>
 </project>

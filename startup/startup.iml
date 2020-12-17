@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../startup/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../startup/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../startup">
+      <sourceFolder url="file://$MODULE_DIR$/../startup/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../startup/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../startup/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../startup/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../startup/target/generated-sources/bootstrap" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../startup/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="bootstrap" />
+  </component>
+</module>

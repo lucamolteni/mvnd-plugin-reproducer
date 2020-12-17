@@ -17,7 +17,7 @@
 
   <modules>
     <module>bootstrap</module>
-    <module>kie-dmn-validation</module>
+    <module>startup</module>
   </modules>
 
 </project>
