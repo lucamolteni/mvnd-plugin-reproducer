@@ -16,7 +16,7 @@
   </properties>
 
   <modules>
-    <module>kie-dmn-validation-bootstrap</module>
+    <module>bootstrap</module>
     <module>kie-dmn-validation</module>
   </modules>
 

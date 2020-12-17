@@ -31,7 +31,7 @@
       </dependency>
       <dependency> <!-- this is not an user dependency, hence is not added to the boms. -->
         <groupId>org.kie</groupId>
-        <artifactId>kie-dmn-validation-bootstrap</artifactId>
+        <artifactId>bootstrap</artifactId>
         <optional>true</optional>
         <version>${project.version}</version>
       </dependency>
@@ -61,7 +61,7 @@
     </dependency>
     <dependency>
       <groupId>org.kie</groupId>
-      <artifactId>kie-dmn-validation-bootstrap</artifactId>
+      <artifactId>bootstrap</artifactId>
       <optional>true</optional>
     </dependency>
     <dependency>
