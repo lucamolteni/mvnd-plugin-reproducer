@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/target/generated-sources/bootstrap" isTestSource="false" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -38,6 +39,7 @@
     <orderEntry type="library" name="Maven: org.drools:drools-canonical-model:7.48.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.jpmml:pmml-model:1.5.1" level="project" />
     <orderEntry type="library" name="Maven: org.jpmml:pmml-agent:1.5.1" level="project" />
+    <orderEntry type="module" module-name="bootstrap" />
     <orderEntry type="library" name="Maven: org.kie:kie-api:7.48.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.kie.soup:kie-soup-maven-support:7.48.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.kie:kie-internal:7.48.0-SNAPSHOT" level="project" />
